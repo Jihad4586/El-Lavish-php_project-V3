@@ -21,7 +21,7 @@ Need some set-up to Run the project
 3. Create the Database
    1. Open phpMyAdmin (typically available at http://localhost/phpmyadmin).
    2. Create a new database named CustomerInfo.
-   3. Run the following SQL queries in the SQL tab to create the user table
+   3. Run the following SQL queries in the SQL tab to create the user table---------
 CREATE TABLE user (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
